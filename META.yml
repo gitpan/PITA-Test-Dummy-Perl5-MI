@@ -1,14 +1,13 @@
-
-no_index: 
-  directory: 
+abstract: CPAN Test Dummy for testing Module::Install::With
+author: 'Adam Kennedy, C<< <cpan at ali.as> >>'
+distribution_type: module
+generated_by: Module::Install version 0.63
+license: perl
+name: PITA-Test-Dummy-Perl5-MI
+no_index:
+  directory:
     - inc
     - t
-generated_by: Module::Install version 0.62
-distribution_type: module
-version: 0.61
-name: PITA-Test-Dummy-Perl5-MI
-author: Adam Kennedy, C<< <cpan at ali.as> >>
-license: perl
-requires: 
+requires:
   perl: 5.004
-abstract: CPAN Test Dummy for testing Module::Install::With
+version: 0.63
