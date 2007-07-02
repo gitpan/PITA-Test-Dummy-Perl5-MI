@@ -2,7 +2,7 @@
 abstract: CPAN Test Dummy for testing Module::Install::With
 author: Adam Kennedy, C<< <cpan at ali.as> >>
 distribution_type: module
-generated_by: Module::Install version 0.65_0100
+generated_by: Module::Install version 0.67
 license: perl
 meta-spec: 
   url: http://module-build.sourceforge.net/META-spec-v1.3.html
@@ -14,4 +14,4 @@ no_index:
     - t
 requires: 
   perl: 5.004
-version: 0.65_01
+version: 0.66
