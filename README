@@ -35,7 +35,7 @@ METHODS
     Returns the dummy's name, in this case 'Milton'
 
 AUTHOR
-    Adam Kennedy, "<cpan at ali.as>"
+    Adam Kennedy <adamk@cpan.org>
 
 SUPPORT
     No support is available for Milton.
@@ -43,10 +43,10 @@ SUPPORT
     His head is meant to come off ONLY when called as Makefile.PL :)
 
 SEE ALSO
-    Module::Install, PITA, <http://ali.as/pita/>
+    Module::Install, PITA
 
 COPYRIGHT & LICENSE
-    Copyright 2006 Adam Kennedy.
+    Copyright 2006 - 2008 Adam Kennedy.
 
     This program is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
